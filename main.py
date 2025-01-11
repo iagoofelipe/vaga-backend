@@ -2,6 +2,30 @@
 
 Solução para teste técnico de desenvolvedor.
 
+Resultado esperado:
+
+1. Soma
+O valor da soma é 91
+
+2. Teste Fibonacci
+O número 8 pertence a sequência de Fibonacci
+O número 9 não pertence a sequência de Fibonacci
+
+3. Faturamento diário
+        menor_faturamento: 373.7838
+        maior_faturamento: 48924.2448
+        dias_acima_media: 10
+
+4. Percentual de faturamento mensal por estado
+        SP:     37.53%
+        RJ:     20.29%
+        MG:     16.17%
+        ES:     15.03%
+        Outros: 10.98%
+
+5. Invertendo string
+o inverso de teste é etset
+
 """
 
 # ----------------------------------------------------------------
