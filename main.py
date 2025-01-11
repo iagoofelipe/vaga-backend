@@ -4,7 +4,8 @@ Solução para teste técnico de desenvolvedor.
 
 """
 
-# 1
+# ----------------------------------------------------------------
+# 1. Soma
 
 indice, soma, k = 13, 0, 0
 
